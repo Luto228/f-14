@@ -14,3 +14,5 @@
 
 ---
 > *Остальные функции (2 и 3) находятся в разработке и появятся совсем скоро!*
+
+![unnamed](https://github.com/user-attachments/assets/58b7c497-afae-4932-9f03-d0ecefbf214e)
